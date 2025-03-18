@@ -46,13 +46,10 @@ body {
 
 .text-color {
 color: #ffffff;
-	
-	}
 
+}
 	
-
-	
-.text {
+.name-highlight {
         color: #ffffff; 
 		  font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
       }
