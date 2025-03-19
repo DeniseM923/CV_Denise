@@ -51,12 +51,12 @@ color: #ffffff;
 	
 .name-highlight {
         color: #ffffff; 
-		  font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+		  font-family: "Helvetica Neue", "sans-serif";
       }
 
 .text-highlight {
         color: #D0826F ; 
-		font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+		font-family:  "Helvetica Neue", "sans-serif";
       }
   
 /* Styles for contact icons */
